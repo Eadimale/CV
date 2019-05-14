@@ -1,0 +1,14 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Responsive portafolio web",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Alejandro Gutierrez",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
